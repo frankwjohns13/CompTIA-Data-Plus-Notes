@@ -1,3 +1,5 @@
+![CompTIA Data+](https://images.credly.com/size/340x340/images/eef81318-aaa6-4e40-83bd-d40a6ee27b28/blob)
+
 # CompTIA Data Plus Notes
 
 ## Domain 1.0 - Data Concepts and Environments (20%)
